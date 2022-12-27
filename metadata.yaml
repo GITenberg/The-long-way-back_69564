@@ -1,0 +1,27 @@
+_repo: The-long-way-back_69564
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrett, John
+    birthdate: 1866
+    deathdate: 1938
+    gutenberg_agent_id: '45450'
+    url: http://www.gutenberg.org/2009/agents/45450
+description: ''
+gutenberg_issued: '2022-12-17'
+identifiers:
+  gutenberg: '69564'
+language: en
+pgterms:marc905: 20220618053001barrett
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Standard Magazines, Inc.,1947.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The long way back
+url: http://www.gutenberg.org/ebooks/69564
